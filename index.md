@@ -1,9 +1,9 @@
 ﻿# Smart Mirror
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+The smart mirror is a mirror where you can not only look at yourself but have it displays different information on the screen such as the date, time, weather, to-do lists, or even have it play music! A monitor behind the mirror enables information to be displayed onto the mirror. I used React to run and customize information on the mirror.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Shragvi S. | Evergreen Valley Highschool | Electrical Engineering | Incoming Sophomore
+| Shragvi S. | Evergreen Valley Highschool | Computer Science | Incoming Sophomore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
