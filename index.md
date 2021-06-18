@@ -1,5 +1,5 @@
 ﻿# Smart Mirror
-The smart mirror is a mirror where you can not only look at yourself but have it display different information on the screen such as the date, time, weather, to-do lists, or even have it play music! A monitor behind the mirror enables information to be displayed onto the mirror. I used React to program and customize information on the mirror.
+The smart mirror is a mirror where you can not only look at yourself but have it display different information on the screen such as the date, time, weather, to-do lists, or even have it play music! A monitor, which is run by Raspberry Pi sits behind the mirror and enables information to be displayed onto the screen. I used React to program and customize information on the mirror. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
