@@ -45,9 +45,10 @@ The code I used to pull an API key from google calendar.
 **Music component:**
 
 <img width="265" alt="Screen Shot 2021-07-16 at 11 21 54 AM" src="https://user-images.githubusercontent.com/86075172/125992485-8c95c2f9-4dc1-4ffd-ad3c-f41fd92cccd0.png">
-<img width="1130" alt="Screen Shot 2021-07-16 at 11 24 38 AM" src="https://user-images.githubusercontent.com/86075172/125992494-7c1fc0ed-b767-4d3f-aae4-0ac7fc7def5b.png">
+<img width="852" alt="Screen Shot 2021-07-16 at 11 32 22 AM" src="https://user-images.githubusercontent.com/86075172/125993316-7624c77a-32ed-4e4a-8368-07f245ee7909.png">
 
-The song playing on spotify displayed onto my mirror.
+The song playing on Spotify displayed onto my mirror.
+
 
 
 
