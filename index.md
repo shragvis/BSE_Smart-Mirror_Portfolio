@@ -22,6 +22,7 @@ My second milestone was to code the features and modifications that I wanted to 
 I set the time and date to update every second using an interval function so it would be current.
   
 
+#First Milestone
 My first milestone was setting up the Raspberry Pi and getting the base project working. To set up the Raspberry Pi, I had to download the Raspbian Software and work with and connect different components like a mouse, keyboard, and SD card to the monitor. I also set up SSH and VNC in order to be able to view everything on my computer screen. After setting up the Raspberry Pi, I moved onto installing the Smart Mirror software from a gitHub respository created by my instructor along with installing node.js and npm. Now with the first milestone completed, I can move onto coding and adding modifications.
 
 [![First Milestone]([![Shragvi S Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1624638749/video_to_markdown/images/youtube--_fVD8Imxluw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_fVD8Imxluw "Shragvi S Milestone 1")){:target="_blank" rel="noopener"}
