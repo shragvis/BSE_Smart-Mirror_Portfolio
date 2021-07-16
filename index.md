@@ -42,6 +42,15 @@ A side-by-side view of my tasks on my google calendar displayed onto the mirror.
 The code I used to pull an API key from google calendar. 
 <br>
 
+**Music component:**
+
+<img width="265" alt="Screen Shot 2021-07-16 at 11 21 54 AM" src="https://user-images.githubusercontent.com/86075172/125992485-8c95c2f9-4dc1-4ffd-ad3c-f41fd92cccd0.png">
+<img width="1130" alt="Screen Shot 2021-07-16 at 11 24 38 AM" src="https://user-images.githubusercontent.com/86075172/125992494-7c1fc0ed-b767-4d3f-aae4-0ac7fc7def5b.png">
+
+The song playing on spotify displayed onto my mirror.
+
+
+
 # First Milestone
 My first milestone was setting up the Raspberry Pi and getting the base project working. To set up the Raspberry Pi, I had to download the Raspbian Software and work with and connect different components like a mouse, keyboard, and SD card to the monitor. I also set up SSH and VNC in order to be able to view everything on my computer screen. After setting up the Raspberry Pi, I moved onto installing the Smart Mirror software from a gitHub respository created by my instructor along with installing node.js and npm. Now with the first milestone completed, I can move onto coding and adding modifications.
 
