@@ -17,6 +17,7 @@ My second milestone was to code the features and modifications that I wanted to 
 
 <br>
 **Time and Date component:**
+
 <img width="265" alt="Screen Shot 2021-07-16 at 10 01 37 AM" src="https://user-images.githubusercontent.com/86075172/125988120-6c600fe3-46fd-4871-8e2d-11bf8ac1b452.png">
 ```javascript
 const interval = setInterval( ()=>setCurrentTime(new Date()),1000); 
@@ -24,6 +25,7 @@ const interval = setInterval( ()=>setCurrentTime(new Date()),1000);
 I set the time and date to update every second using an interval function so it would be current.
 
 **To-do List component:**
+
 <img width="261" alt="Screen Shot 2021-07-16 at 10 01 51 AM" src="https://user-images.githubusercontent.com/86075172/125989061-d3151aec-78fc-42df-bbd2-ac801d8ad63e.png">
 <img width="1438" alt="Screen Shot 2021-07-16 at 10 03 23 AM" src="https://user-images.githubusercontent.com/86075172/125989072-2c3bcbba-7f33-4afc-bb7d-d93bc603307e.png">
 
