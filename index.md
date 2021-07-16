@@ -20,7 +20,13 @@ My second milestone was to code the features and modifications that I wanted to 
 const interval = setInterval( ()=>setCurrentTime(new Date()),1000); 
 ```
 I set the time and date to update every second using an interval function so it would be current.
+
+<img width="261" alt="Screen Shot 2021-07-16 at 10 01 51 AM" src="https://user-images.githubusercontent.com/86075172/125989061-d3151aec-78fc-42df-bbd2-ac801d8ad63e.png">
+<img width="1438" alt="Screen Shot 2021-07-16 at 10 03 23 AM" src="https://user-images.githubusercontent.com/86075172/125989072-2c3bcbba-7f33-4afc-bb7d-d93bc603307e.png">
+
+A side-by-side view of my tasks on my google calendar displayed onto the mirror.
   
+
 
 # First Milestone
 My first milestone was setting up the Raspberry Pi and getting the base project working. To set up the Raspberry Pi, I had to download the Raspbian Software and work with and connect different components like a mouse, keyboard, and SD card to the monitor. I also set up SSH and VNC in order to be able to view everything on my computer screen. After setting up the Raspberry Pi, I moved onto installing the Smart Mirror software from a gitHub respository created by my instructor along with installing node.js and npm. Now with the first milestone completed, I can move onto coding and adding modifications.
