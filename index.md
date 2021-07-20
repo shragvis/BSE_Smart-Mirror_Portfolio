@@ -16,7 +16,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 My second milestone was to code the features and modifications that I wanted to add onto the Smart Mirror. The features I added are the time, date, weather, to-do list, motivational quotes, and music. To do this, I used React and since this was my first encounter with React, I had a lot to learn. But after getting the hang of it, it wasn’t so bad. The first component that I worked on was the time and date. For this I used the javascript date object to be able to display the current time, month, day, and year. The second component I worked on was the todo list component. For this component, I used a google calendar api so my mirror would display my tasks and events from my google calendar and update accordingly. The next component was the Weather component. Similarly to the todo list, I used openWeather map to generate an api and display the current weather according to my location. For my quotes component which displays different motivational quotes every hour, I used zenquotes API to generate the different quotes. My last and most complicated component was the spotify component. For this I followed part of a video tutorial and used a spotify API to essentially display whatever song I am playing from my spotify account onto the mirror.
 
 <br>
-**Original Sketch:**
+**Sketch with Modifications:**
 
 <img width="333" alt="Screen Shot 2021-07-20 at 9 41 06 AM" src="https://user-images.githubusercontent.com/86075172/126363091-9d4c29ba-d785-402d-b12b-961159c416d5.png">
 
