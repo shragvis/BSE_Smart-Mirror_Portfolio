@@ -17,6 +17,7 @@ My second milestone was to code the features and modifications that I wanted to 
 
 <br>
 **Original Sketch:**
+
 <img width="333" alt="Screen Shot 2021-07-20 at 9 41 06 AM" src="https://user-images.githubusercontent.com/86075172/126363091-9d4c29ba-d785-402d-b12b-961159c416d5.png">
 
 
