@@ -55,7 +55,7 @@ The song playing on Spotify displayed onto my mirror.
 # First Milestone
 My first milestone was setting up the Raspberry Pi and getting the base project working. To set up the Raspberry Pi, I had to download the Raspbian Software and work with and connect different components like a mouse, keyboard, and SD card to the monitor. I also set up SSH and VNC in order to be able to view everything on my computer screen. After setting up the Raspberry Pi, I moved onto installing the Smart Mirror software from a gitHub respository created by my instructor along with installing node.js and npm. Now with the first milestone completed, I can move onto coding and adding modifications.
 
-![IMG_4059](https://user-images.githubusercontent.com/86075172/126358901-6ef70900-0a84-4828-a2e4-f336af13b72a.jpg)
+<img width="400" alt="Screen Shot 2021-07-20 at 9 17 52 AM" src="https://user-images.githubusercontent.com/86075172/126359552-1502e893-f934-489f-8890-c76a77f5bccd.png">
 
 The Raspberry Pi all set up.
 
