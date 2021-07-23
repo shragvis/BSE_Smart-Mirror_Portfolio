@@ -12,7 +12,7 @@ The smart mirror is a mirror where you can not only look at yourself but have it
 
 [![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627078559/video_to_markdown/images/youtube--JUzOucNVUH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JUzOucNVUH4&ab_channel=BlueStampEng "Demo Video")
 
-**Reflections:** Overall, my time at Bluestamp has shown me that I really enjoy the software side of engineering and the designing aspect as well and has really given me the confidence to pursue it in the future. I also learned that as long as you are determined and willing to stick to something, you can make it happen.
+**Reflections:** Overall, my time at Bluestamp has shown me that I really enjoy the software side of engineering and the designing aspect as well. Seeing my smart mirror go from just a sketch to a functioning mirror has really given me the confidence to pursue software engineering and design in the future. I also learned that as long as you are determined and willing to stick to something, you can make it happen.
 
 
   
