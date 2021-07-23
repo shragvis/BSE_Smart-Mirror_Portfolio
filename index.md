@@ -10,7 +10,8 @@ The smart mirror is a mirror where you can not only look at yourself but have it
 # Final Milestone
 My third milestone was just to glue the mirror screen to the monitor and to get my mirror display to load onto the monitor. To do this, I first simply hot glued my mirror screen to the monitor. Then, I used a couple of git commands such as ‘git pull’ and ‘git push’ to push my code to my github repository and then pull it onto my Raspberry Pi. I also changed the port numbers from 3000 to 8080 and after using ‘npm run build’ and ‘npm install’ I was able to load all my code and display it on the monitor.
 
-![IMG-4838](https://user-images.githubusercontent.com/86075172/126844412-79c772d1-e293-4622-aa80-cc24b303d322.jpg)
+<img width="400" alt="Screen Shot 2021-07-23 at 2 44 35 PM" src="https://user-images.githubusercontent.com/86075172/126844497-071fc2db-3f39-49eb-86db-2cc80d981ea7.png">
+
 My mirror displayed onto my monitor.
 
 # Second Milestone
