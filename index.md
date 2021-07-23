@@ -5,17 +5,30 @@ The smart mirror is a mirror where you can not only look at yourself but have it
 |:--:|:--:|:--:|:--:|
 | Shragvi S. | Evergreen Valley Highschool | Computer Science | Incoming Sophomore
 
-![Headstone Image]()
+<img width="1300" alt="Screen Shot 2021-07-23 at 3 26 27 PM" src="https://user-images.githubusercontent.com/86075172/126847158-5e872f55-d849-4bef-9ed7-665411324b3e.png">
+
+
+# Demo Night Presentation
+
+[![Demo Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1627078559/video_to_markdown/images/youtube--JUzOucNVUH4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JUzOucNVUH4&ab_channel=BlueStampEng "Demo Video")
+
+**Reflections:** Overall, my time at Bluestamp has shown me that I really enjoy the software side of engineering and the designing aspect as well and has really given me the confidence to pursue it in the future. I also learned that as long as you are determined and willing to stick to something, you can make it happen.
+
+
   
 # Final Milestone
 My third milestone was just to glue the mirror screen to the monitor and to get my mirror display to load onto the monitor. To do this, I first simply hot glued my mirror screen to the monitor. Then, I used a couple of git commands such as ‘git pull’ and ‘git push’ to push my code to my github repository and then pull it onto my Raspberry Pi. I also changed the port numbers from 3000 to 8080 and after using ‘npm run build’ and ‘npm install’ I was able to load all my code and display it on the monitor.
 
 <img width="500" alt="Screen Shot 2021-07-23 at 2 55 56 PM" src="https://user-images.githubusercontent.com/86075172/126845515-0d6aad48-87af-4bdb-9bc7-55ceafb947f2.png">
 
-My mirror displayed onto my monitor.
+My mirror displayed on my monitor.
+
 
 # Second Milestone
 My second milestone was to code the features and modifications that I wanted to add onto the Smart Mirror. The features I added are the time, date, weather, to-do list, motivational quotes, and music. To do this, I used React and since this was my first encounter with React, I had a lot to learn. But after getting the hang of it, it wasn’t so bad. The first component that I worked on was the time and date. For this I used the javascript date object to be able to display the current time, month, day, and year. The second component I worked on was the todo list component. For this component, I used a google calendar api so my mirror would display my tasks and events from my google calendar and update accordingly. The next component was the Weather component. Similarly to the todo list, I used openWeather map to generate an api and display the current weather according to my location. For my quotes component which displays different motivational quotes every hour, I used zenquotes API to generate the different quotes. My last and most complicated component was the spotify component. For this I followed part of a video tutorial and used a spotify API to essentially display whatever song I am playing from my spotify account onto the mirror.
+
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1627078604/video_to_markdown/images/youtube--hCnLPmuhs88-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=hCnLPmuhs88&ab_channel=BlueStampEng "Milestone 2")
+
 
 <br>
 **Sketch with Modifications:**
