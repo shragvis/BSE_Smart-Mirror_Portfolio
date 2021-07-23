@@ -5,7 +5,7 @@ The smart mirror is a mirror where you can not only look at yourself but have it
 |:--:|:--:|:--:|:--:|
 | Shragvi S. | Evergreen Valley Highschool | Computer Science | Incoming Sophomore
 
-<img width="1300" alt="Screen Shot 2021-07-23 at 3 26 27 PM" src="https://user-images.githubusercontent.com/86075172/126847158-5e872f55-d849-4bef-9ed7-665411324b3e.png">
+<img width="1200" alt="Screen Shot 2021-07-23 at 3 26 27 PM" src="https://user-images.githubusercontent.com/86075172/126847158-5e872f55-d849-4bef-9ed7-665411324b3e.png">
 
 
 # Demo Night Presentation
